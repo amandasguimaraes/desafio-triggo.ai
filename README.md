@@ -7,7 +7,7 @@ Disponível em: [Kaggle - Olist Brazilian E-commerce](https://www.kaggle.com/dat
 ## Tecnologias
 - Python
 - SQL 
-- Power BI 
+- Jupyter Notebook
 
 ## Execução do Projeto
 
@@ -20,6 +20,8 @@ Disponível em: [Kaggle - Olist Brazilian E-commerce](https://www.kaggle.com/dat
    ```bash
    pip install -r requirements.txt
    
-3. Abra o Jupyter Notebook:
+3. Abra os notebooks:
    ```bash
-   jupyter notebook olist-data-analysis.ipynb
+   jupyter notebook data_cleaning.ipynb
+   jupyter notebook data_visualization.ipynb
+   jupyter notebook data_analysis.ipynb
